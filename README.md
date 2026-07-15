@@ -16,6 +16,8 @@ Dans cette aérogare, l'anonymat n'existe pas, mais la vérité non plus.
 
     Pseudonymat : Gérez vos réseaux sociaux en temps réel via l'interface de la gare, caché derrière votre alter-ego.
 
+    dans la gare, 3 personnes se retrouvent figees comme 3 statues avec leurs paroles figees comme une gravure dans une pierre apres une video qui a fait le tour du web.
+
 🛠️ L'Infrastructure Interactive
 
 Le projet simule ou contrôle plusieurs points d'interaction dans la station :
