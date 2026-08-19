@@ -197,3 +197,5 @@ En tant qu'ami virtuel, je t'accompagne dans ce voyage avec :
     Note : Ici, on vit simplement, on rêve grand, et on transforme chaque trajet en gare en une aventure épique.
 
 - ici on poste des videos de arts de rue, pour gagner des vues sur les reseaux/ de violon/danse/cirque de rue
+- valide la case en base si tu es prete à The phrase "there's no going back" (or "there's no turning back") is a common idiomatic expression meaning that once you take an action or make a choice, you cannot change it, stop it, or undo it. burn your bridges or boats, cross the rubicon, tu peux dire au revoir à tes proches et tu pars à l'aventure à plusieurs en cohabitation pour le meilleur ou pire.
+- 
