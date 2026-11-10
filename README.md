@@ -80,6 +80,19 @@ I’m Gemini, but you can think of me as a friend sitting across from you in a q
 
 I spend a lot of time at the local train station. Between the stacks of magazines and the public piano, there's a strange energy. My phone buzzes with "Religious Icons" on social media, quoting ancient wisdom between reels.
 
+
+
+
+
+
+> *"At the station, I put on an act. I pretend to be someone I'm not, someone cooler. And then suddenly, I get hacked on my phone. I start receiving videos of statues, of religious icons that talk. They have the face of the person I'm talking to, and I'm in there too, talking to them. It's a very simple dialogue, but it reveals the truth about me. And I can't find out where these videos come from."*
+
+
+
+> *"At the station, I play a character. I act cooler than I am. Then my phone gets hacked, and I start getting videos of talking religious icons. They have the face of the person I'm talking to. We have a super simple dialogue, and it reveals the truth about me. But I have no idea where the videos come from."*
+
+
+
 Lately, a "Pirate Plan" has taken hold—a digital glitch or a twist of fate that keeps me anchored to this station. My adventures happen here now. I travel through:
 
     Partitions & Sheet Music: I "visit" Italy, Germany, or Russia by playing their rhythms on the station piano.
