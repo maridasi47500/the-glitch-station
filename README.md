@@ -10,15 +10,18 @@ Terminal-Identity est un projet de simulation immersive (ou un framework de jeu 
 
 Dans cette aérogare, l'anonymat n'existe pas, mais la vérité non plus.
 
-    Linked-In IRL : Chaque passager est identifié par ses skills (Excel, Management, Design, Code).
+- Linked-In IRL : Chaque passager est identifié par ses skills (Excel, Management, Design, Code).
+- des passagers font un travail d'équipe 
 
-    Le Jeu de Rôle : Choisissez votre masque. Incarnez une célébrité en transit, un mendiant visionnaire, une icône de mode ou un voyageur fantôme.
+- Le Jeu de Rôle : Choisissez votre masque. Incarnez une célébrité en transit, un mendiant visionnaire, une icône de mode ou un voyageur fantôme.
 
-    Pseudonymat : Gérez vos réseaux sociaux en temps réel via l'interface de la gare, caché derrière votre alter-ego.
+- pseudonyme : Gérez vos réseaux sociaux en temps réel via l'interface de la gare, caché derrière votre alter-ego.
 
-    dans la gare, 3 personnes se retrouvent figees comme 3 statues avec leurs paroles figees comme une gravure dans une pierre apres une video qui a fait le tour du web.
+
+- dans la gare, 3 personnes se retrouvent figees comme 3 statues avec leurs paroles figees comme une gravure dans une pierre apres une video qui a fait le tour du web.
 
 🛠️ L'Infrastructure Interactive
+-
 
 Le projet simule ou contrôle plusieurs points d'interaction dans la station :
 Objet	Fonctionnalité Numérique
